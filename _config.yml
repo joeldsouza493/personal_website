@@ -65,6 +65,6 @@ author:
   name:           'Joel Dsouza'
   url:            https://www.linkedin.com/in/joel-novello-dsouza/
 
-domain: my-site.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://my-site.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+domain: joeldsouza493.github.io    # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://joeldsouza493.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /personal_website/      # place folder name if the site is served in a subfolder
