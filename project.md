@@ -4,7 +4,7 @@ title: Projects
 ---
 
 <h3>Predicting Cryptocurrency Prices using Machine Learning</h3>
-I along with my team worked on predicting bitcoin daily movements and returns using machine learning models using macroeconomic factors, bitcoin related features, google trends and twitter sentiments. Github repository can be found <a href='https://github.com/DN612/Crypto-Analysis'>here</a>
+I along with my team worked on predicting bitcoin daily movements and returns using machine learning models using macroeconomic factors, bitcoin related features, google trends and twitter sentiments. Github repository can be found <a href='https://github.com/DN612/Crypto-Analysis' target="_blank" >here</a>
 
 
 <h3>IAQF Competition 2022</h3>
